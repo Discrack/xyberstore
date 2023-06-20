@@ -36,13 +36,13 @@ a {
 }
 .btn {
 	padding:8px 15px;
-	background-color: #c700b6;
+	background-color: #7289da;
 	color: #fff;
 	border:none;
 	cursor: pointer;
 }
 header {
-	background-color: #c700b6;
+	background-color: #7289da;
 	color: #fff;
 }
 header h1 {
@@ -108,7 +108,7 @@ footer {
 }
 .search input[type=submit] {
 	padding:12px 15px;
-	background-color: #c700b6;
+	background-color: #7289da;
 	color:#fff;
 	border:none;
 	cursor: pointer;
@@ -142,7 +142,7 @@ footer {
 }
 .col-4 .harga {
 	font-weight: bold;
-	color:#c700b6;
+	color:#7289da;
 	float: right;
 }
 .footer {
@@ -174,7 +174,7 @@ footer {
 	margin-bottom: 10px;
 }
 .col-2 h4 {
-	color: #c700b6;
+	color: #7289da;
 }
 .col-2 p {
 	margin:15px 0;
