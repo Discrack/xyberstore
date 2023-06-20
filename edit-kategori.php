@@ -69,7 +69,7 @@
 	<!-- footer -->
 	<footer>
 		<div class="container">
-			<small>Copyright &copy; 2020 - Bukawarung.</small>
+			<small>XyberStore - &copy; 2023</small>
 		</div>
 	</footer>
 </body>
