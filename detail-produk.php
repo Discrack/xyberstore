@@ -22,7 +22,7 @@
 		<div class="container">
 			<h1><a href="index.php">XyberStore</a></h1>
 			<ul>
-				<li><a href="produk.php">Produk</a></li>
+				<li><a href="login.php">Login</a></li>
 			</ul>
 		</div>
 	</header>
